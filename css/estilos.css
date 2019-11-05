@@ -1,9 +1,29 @@
+
+body
+{
+    background:rgb(100, 100, 100);
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
 #parrafo
 {
     background: white;
     padding: 1em;
 }
 
+
+#cabecera
+{
+    background: #ace2d6;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
 
 #footer
 {
@@ -22,6 +42,10 @@
     margin: 0 auto;
 }
 
+img{
+    display:block;
+    margin:auto;
+    }
 footer #redes-s .facebook {
 	background:url(../imagenes/descarga.png);
 }
