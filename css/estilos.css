@@ -1,0 +1,27 @@
+#parrafo
+{
+    background: white;
+    padding: 1em;
+}
+
+
+#footer
+{
+    background: #136b55;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
+
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid rgb(185, 185, 185);
+    margin: 0 auto;
+}
+
+footer #redes-s .facebook {
+	background:url(../imagenes/descarga.png);
+}
